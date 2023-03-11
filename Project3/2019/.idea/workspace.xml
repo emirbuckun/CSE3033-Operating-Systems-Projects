@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="io_multithreading" targetName="io_multithreading" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f3d844d-d0bb-4cc7-86d3-6cd45e124c86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/deneme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/deneme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/io_multithreading" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/io_multithreading" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/common_libs.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/common_libs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/thread_factory.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/thread_factory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vbv7CKaq401TRxKvmNUr8CzS28" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="io_multithreading" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-d deneme.txt -n 15 5 8 6" PASS_PARENT_ENVS_2="true" PROJECT_NAME="io_multithreading" TARGET_NAME="io_multithreading" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="io_multithreading" RUN_TARGET_NAME="io_multithreading">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f3d844d-d0bb-4cc7-86d3-6cd45e124c86" name="Default Changelist" comment="" />
+      <created>1577534439009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577534439009</updated>
+      <workItem from="1577534440238" duration="26947000" />
+      <workItem from="1577562501803" duration="314000" />
+      <workItem from="1577563045972" duration="566000" />
+      <workItem from="1577609264402" duration="1714000" />
+      <workItem from="1577611449726" duration="29486000" />
+      <workItem from="1577649962653" duration="180000" />
+      <workItem from="1577702441709" duration="1741000" />
+      <workItem from="1577704202503" duration="9670000" />
+    </task>
+    <task id="LOCAL-00001" summary="README.md added.">
+      <created>1577534935662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577534935662</updated>
+    </task>
+    <task id="LOCAL-00002" summary="README.md modified.">
+      <created>1577535031321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577535031321</updated>
+    </task>
+    <task id="LOCAL-00003" summary="README.md modified.">
+      <created>1577535076194</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577535076194</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Library headers added. utils.h:: added functions to parse program arguments and to find number of lines in a file.">
+      <created>1577539079591</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577539079591</updated>
+    </task>
+    <task id="LOCAL-00005" summary="thread libs added.">
+      <created>1577540674505</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577540674505</updated>
+    </task>
+    <task id="LOCAL-00006" summary="thread_factory.h methods added.">
+      <created>1577562533927</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577562533928</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Upper and Replace threads added.">
+      <created>1577629007916</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577629007916</updated>
+    </task>
+    <task id="LOCAL-00008" summary="🚀Project finished.">
+      <created>1577645175272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577645175272</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="README.md added." />
+    <MESSAGE value="README.md modified." />
+    <MESSAGE value="Library headers added. utils.h:: added functions to parse program arguments and to find number of lines in a file." />
+    <MESSAGE value="thread libs added." />
+    <MESSAGE value="thread_factory.h methods added." />
+    <MESSAGE value="Upper and Replace threads added." />
+    <MESSAGE value="Project finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project finished." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577629116906">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="423" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1577629116906" />
+    <state x="777" y="403" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1577645710498">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="777" y="403" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.36.1920.1044@0.36.1920.1044" timestamp="1577645710498" />
+    <state x="697" y="309" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577541968115">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="697" y="309" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1577541968115" />
+    <state x="561" y="153" key="CommitChangelistDialog2" timestamp="1577720485112">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="561" y="153" key="CommitChangelistDialog2/0.36.1920.1044@0.36.1920.1044" timestamp="1577720485112" />
+    <state width="1874" height="853" key="GridCell.Tab.0.bottom" timestamp="1577720402064">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="853" key="GridCell.Tab.0.bottom/0.36.1920.1044@0.36.1920.1044" timestamp="1577720402064" />
+    <state width="1874" height="853" key="GridCell.Tab.0.center" timestamp="1577720402062">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="853" key="GridCell.Tab.0.center/0.36.1920.1044@0.36.1920.1044" timestamp="1577720402062" />
+    <state width="1874" height="853" key="GridCell.Tab.0.left" timestamp="1577720402061">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="853" key="GridCell.Tab.0.left/0.36.1920.1044@0.36.1920.1044" timestamp="1577720402061" />
+    <state width="1874" height="853" key="GridCell.Tab.0.right" timestamp="1577720402063">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="853" key="GridCell.Tab.0.right/0.36.1920.1044@0.36.1920.1044" timestamp="1577720402063" />
+    <state width="1874" height="341" key="GridCell.Tab.1.bottom" timestamp="1577645861219">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="341" key="GridCell.Tab.1.bottom/0.36.1920.1044@0.36.1920.1044" timestamp="1577645861219" />
+    <state width="1874" height="341" key="GridCell.Tab.1.center" timestamp="1577645861218">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="341" key="GridCell.Tab.1.center/0.36.1920.1044@0.36.1920.1044" timestamp="1577645861218" />
+    <state width="1874" height="341" key="GridCell.Tab.1.left" timestamp="1577645861218">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="341" key="GridCell.Tab.1.left/0.36.1920.1044@0.36.1920.1044" timestamp="1577645861218" />
+    <state width="1874" height="341" key="GridCell.Tab.1.right" timestamp="1577645861218">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="341" key="GridCell.Tab.1.right/0.36.1920.1044@0.36.1920.1044" timestamp="1577645861218" />
+    <state x="460" y="191" key="SettingsEditor" timestamp="1577645747476">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="460" y="191" key="SettingsEditor/0.36.1920.1044@0.36.1920.1044" timestamp="1577645747476" />
+    <state x="559" y="292" key="Vcs.Push.Dialog.v2" timestamp="1577720486497">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="559" y="292" key="Vcs.Push.Dialog.v2/0.36.1920.1044@0.36.1920.1044" timestamp="1577720486497" />
+    <state x="639" y="389" key="com.intellij.ide.util.TipDialog" timestamp="1577704207872">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="639" y="389" key="com.intellij.ide.util.TipDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1577704207872" />
+    <state x="727" y="239" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577645165292">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="727" y="239" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.36.1920.1044@0.36.1920.1044" timestamp="1577645165292" />
+    <state x="623" y="277" width="672" height="678" key="search.everywhere.popup" timestamp="1577716308151">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="623" y="277" width="672" height="678" key="search.everywhere.popup/0.36.1920.1044@0.36.1920.1044" timestamp="1577716308151" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>4</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

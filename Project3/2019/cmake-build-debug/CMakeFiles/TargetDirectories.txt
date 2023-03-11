@@ -1,0 +1,3 @@
+/home/bera/CLionProjects/io-multithreading/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bera/CLionProjects/io-multithreading/cmake-build-debug/CMakeFiles/io_multithreading.dir
+/home/bera/CLionProjects/io-multithreading/cmake-build-debug/CMakeFiles/edit_cache.dir

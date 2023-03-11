@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bera/CLionProjects/io-multithreading/lib/common_libs.h
+stdlib.h
+-
+stdio.h
+-
+pthread.h
+-
+unistd.h
+-
+string.h
+-
+semaphore.h
+-
+errno.h
+-
+
+/home/bera/CLionProjects/io-multithreading/lib/thread_factory.h
+utils.h
+/home/bera/CLionProjects/io-multithreading/lib/utils.h
+
+/home/bera/CLionProjects/io-multithreading/lib/utils.h
+common_libs.h
+/home/bera/CLionProjects/io-multithreading/lib/common_libs.h
+
+/home/bera/CLionProjects/io-multithreading/main.c
+lib/thread_factory.h
+/home/bera/CLionProjects/io-multithreading/lib/thread_factory.h
+
